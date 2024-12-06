@@ -18,7 +18,7 @@ extensions = [
     'sphinx.ext.viewcode',
 ]
 
-#html_theme = 'sphinx_rtd_theme'
+html_theme = 'salabaster'
 templates_path = ['_templates']
 
 

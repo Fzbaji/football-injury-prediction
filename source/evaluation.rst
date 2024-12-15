@@ -7,10 +7,10 @@ Métriques Utilisées
 -----------------------
 
 Les principales métriques d'évaluation des modèles sont :
-1. **Accuracy (Précision globale)** : mesure des prédictions correctes par rapport au total.
-2. **F1-Score** : moyenne harmonique entre précision (precision) et rappel (recall).
-3. **Matrice de Confusion** : tableau de classification montrant les vrais positifs, vrais négatifs, faux positifs, et faux négatifs.
-4. **ROC-AUC** : mesure de la capacité du modèle à discriminer les classes.
+    1. **Accuracy (Précision globale)** : mesure des prédictions correctes par rapport au total.
+    2. **F1-Score** : moyenne harmonique entre précision (precision) et rappel (recall).
+    3. **Matrice de Confusion** : tableau de classification montrant les vrais positifs, vrais négatifs, faux positifs, et faux négatifs.
+    4. **ROC-AUC** : mesure de la capacité du modèle à discriminer les classes.
 
 Résultats des Modèles
 -------------------------

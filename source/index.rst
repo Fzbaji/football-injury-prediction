@@ -11,10 +11,10 @@ de football. Vous y trouverez une description des modèles utilisés, des
 méthodes de prétraitement des données, ainsi que des évaluations des performances.
 
 Cette documentation couvre les aspects suivants du projet :
-1. Introduction
-2. Prétraitement des données
-3. Entraînement des modèles
-4. Évaluation des performances
+   1. Introduction
+   2. Prétraitement des données
+   3. Entraînement des modèles
+   4. Évaluation des performances
 
 Sommaire
 --------

@@ -1,10 +1,14 @@
 Introduction
 ============
 
-**Problématique** :
+Problématique 
+--------------
+
     - Les blessures dans le football professionnel représentent un défi majeur pour les clubs, à la fois sur le plan financier et sportif, en impactant négativement les performances des joueurs et l'équilibre des équipes. Elles peuvent interrompre des carrières prometteuses et compromettre les objectifs stratégiques d'une saison. Face à ce problème, les clubs ne doivent pas uniquement se concentrer sur la gestion des blessures déjà survenues, mais également chercher à anticiper leur occurrence. Une telle anticipation pourrait permettre d’optimiser la santé des joueurs, leur disponibilité sur le terrain, et en fin améliorer les performances globales de l'équipe.
 
-**Solution proposée** :
+Solution proposée
+------------------
+
     - Ce projet ambitionne de développer une application basée sur l’apprentissage automatique pour prédire et gérer efficacement les blessures. L’application envisagée comportera deux fonctionnalités principales :
 
         - **Prédiction du risque de blessure** : Analyse des données de performance des joueurs (comme le temps de jeu, les séances d’entraînement, et l'historique médical) afin d’évaluer les risques avant qu’ils ne deviennent critiques.

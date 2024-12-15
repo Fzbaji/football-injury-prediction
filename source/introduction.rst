@@ -13,8 +13,6 @@ Introduction
 
 Cette solution vise à apporter une avancée technologique significative, permettant aux clubs de football de gérer plus efficacement les risques liés aux blessures tout en préservant les performances sportives
 
-Installation
-============
 
 Bibliothèques Utilisées
 ---------------------------

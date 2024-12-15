@@ -24,12 +24,12 @@ Pour démarrer l'application, exécutez la commande suivante dans votre terminal
 L'application Streamlit offre les fonctionnalités suivantes :
 
 - Saisie des informations du joueur via des champs interactifs :
-  - **Minutes jouées**.
-  - **Fatigue (%)**.
-  - **Heures d’entraînement**.
-  - **Âge**.
-  - **Historique de blessures musculaires** (Oui/Non).
-  - **Sans contact physique** (Oui/Non).
+    - **Minutes jouées**.
+    - **Fatigue (%)**.
+    - **Heures d’entraînement**.
+    - **Âge**.
+    - **Historique de blessures musculaires** (Oui/Non).
+    - **Sans contact physique** (Oui/Non).
   
 - Visualisation des données saisies sous forme de tableau.
   

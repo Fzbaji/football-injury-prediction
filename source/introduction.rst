@@ -12,8 +12,8 @@ Introduction
     - Ce projet ambitionne de développer une application basée sur l’apprentissage automatique pour prédire et gérer efficacement les blessures. 
     L’application envisagée comportera deux fonctionnalités principales :
 
-        **Prédiction du risque de blessure** : Analyse des données de performance des joueurs (comme le temps de jeu, les séances d’entraînement, et l'historique médical) afin d’évaluer les risques avant qu’ils ne deviennent critiques.
-        **Évaluation de la gravité et estimation du rétablissement** : Exploitation d’images pour déterminer la gravité des blessures diagnostiquées et estimer les délais de retour au jeu.
+        - **Prédiction du risque de blessure** : Analyse des données de performance des joueurs (comme le temps de jeu, les séances d’entraînement, et l'historique médical) afin d’évaluer les risques avant qu’ils ne deviennent critiques.
+        - **Évaluation de la gravité et estimation du rétablissement** : Exploitation d’images pour déterminer la gravité des blessures diagnostiquées et estimer les délais de retour au jeu.
 
 Cette solution vise à apporter une avancée technologique significative, permettant aux clubs de football de gérer plus efficacement les risques liés aux blessures tout en préservant les performances sportives
 

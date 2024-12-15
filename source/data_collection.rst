@@ -15,9 +15,24 @@ La disponibilité de jeux de données fiables est cruciale pour l’entraînemen
 Pour pallier ces limitations, nous avons opté pour une approche de **génération de données synthétiques** basée sur des études et analyses fiables.
 
 Génération des Données Synthétiques
------------------------------------
+===================================
 
-Les données synthétiques ont été créées à partir de distributions statistiques et d'hypothèses dérivées d'études scientifiques et de données existantes. Voici les **features** principales utilisées et leur pertinence dans le contexte de l’étude sur les blessures musculaires :
+Les données synthétiques ont été créées à partir de distributions statistiques et d'hypothèses dérivées d'études scientifiques et de données existantes. Ces données permettent d'étudier les facteurs prédictifs des blessures musculaires, notamment dans le contexte du football, où ce type de blessure est l’un des plus critiques. 
+
+**Variable Target**
+-------------------
+
+La variable cible (*target*) est **binaire** et contient deux valeurs possibles :
+
+- **1 :** Le joueur présente un risque de blessure musculaire.
+- **0 :** Le joueur ne présente aucun risque de blessure musculaire.
+
+Cette variable cible a été définie sur la base des conclusions de plusieurs études et documents fiables, qui montrent que certains facteurs (tels que l’historique de blessures musculaires ou des charges d’entraînement excessives) augmentent considérablement le risque. En particulier, les blessures musculaires sont une des préoccupations majeures dans le domaine du football, en raison de leur fréquence et de leur impact sur les performances des joueurs.
+
+**Features Utilisées**
+----------------------
+
+Voici les **features** principales incluses dans le jeu de données et leur pertinence dans le contexte de l’étude sur les blessures musculaires :
 
 1. **Âge** :
    - Variable continue exprimée en années.
@@ -37,11 +52,14 @@ Les données synthétiques ont été créées à partir de distributions statist
 
 5. **Historique des blessures musculaires** :
    - Variable binaire ou catégorielle indiquant des blessures musculaires récentes.
-   - Facteur prédictif clé dans les études sur la prévention des blessures.
+   - Facteur prédictif clé dans les études sur la prévention des blessures, les joueurs ayant déjà souffert de telles blessures étant souvent plus vulnérables.
 
 6. **Contact physique (oui/non)** :
    - Variable binaire indiquant si l’athlète est impliqué dans des activités à contact physique élevé.
-   - Ce facteur est essentiel, car les sports impliquant des contacts physiques augmentent les risques.
+   - Ce facteur est essentiel, car les sports impliquant des contacts physiques augmentent les risques de blessure musculaire.
+
+En résumé, ces variables ont été sélectionnées en fonction de leur pertinence scientifique et de leur contribution à prédire la variable cible. Ce choix garantit une meilleure compréhension et une analyse fiable des facteurs influençant les blessures musculaires.
+
 
 ..
     Visualisation des Données Générées   (comment la visualiser)

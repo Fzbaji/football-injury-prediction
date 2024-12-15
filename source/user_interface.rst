@@ -34,8 +34,8 @@ L'application Streamlit offre les fonctionnalités suivantes :
 - Visualisation des données saisies sous forme de tableau.
   
 - Affichage des prédictions du modèle :
-  - Probabilité de blessure musculaire.
-  - Interprétation des résultats.
+    - Probabilité de blessure musculaire.
+    - Interprétation des résultats.
 
 **Exemple de résultat de l'interface**
 
@@ -44,8 +44,8 @@ Une fois que les données sont saisies et soumises, l'utilisateur voit :
 - La **prédiction brute** (1 pour un risque de blessure, 0 pour aucun risque).
 - Les **probabilités** associées au risque et à l'absence de risque.
 - Une alerte intuitive :
-  - Rouge pour signaler un risque élevé de blessure.
-  - Vert pour indiquer une absence de risque immédiat.
+    - Rouge pour signaler un risque élevé de blessure.
+    - Vert pour indiquer une absence de risque immédiat.
 
 **Capture d'écran de l'interface utilisateur**
 

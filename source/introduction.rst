@@ -61,3 +61,19 @@ Le projet utilise plusieurs bibliothèques Python pour le traitement des donnée
     from sklearn.neighbors import KNeighborsClassifier
     from xgboost import XGBClassifier
     from sklearn.metrics import classification_report, accuracy_score, confusion_matrix, roc_auc_score, f1_score
+
+Avancement actuel 
+------------------
+**Modèle tabulaire**
+
+- **Étape 1 (Terminée) :** Collecte et nettoyage des données.
+- **Étape 2 (Terminée) :** Développement de modèles d’apprentissage automatique (régression logistique, forêts aléatoires, etc.).
+- **Étape 3 (Terminée) :** Validation des modèles sur des données réelles.
+- **Étape 4 (Terminée) :** Développement d'une interface utilisateur conviviale
+
+**Modèle d'analyse et classification d'image**
+
+- **Étape 1 (En cours) :** Collecte et nettoyage des données.
+- **Étape 2 (A venir) :** Développement de modèles d’apprentissage automatique CNN
+- **Étape 3 (A venir) :** Validation du modèle sur des données réelles.
+- **Étape 4 (A venir) :** Développement d'une interface utilisateur conviviale

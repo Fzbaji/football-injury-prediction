@@ -12,9 +12,10 @@ méthodes de prétraitement des données, ainsi que des évaluations des perform
 
 Cette documentation couvre les aspects suivants du projet :
    1. Introduction
-   2. Prétraitement des données
-   3. Entraînement des modèles
-   4. Évaluation des performances
+   2. Collecte des données
+   3. Prétraitement des données
+   4. Entraînement des modèles
+   5. Évaluation des performances
 
 
 
@@ -23,6 +24,7 @@ Cette documentation couvre les aspects suivants du projet :
    :caption: Sections:
 
    introduction
+   data_collection
    preprocessing
    model_training
    evaluation

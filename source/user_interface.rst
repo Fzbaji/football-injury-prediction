@@ -3,7 +3,7 @@ Développement de l'Interface Utilisateur
 
 Dans cette étape, une interface utilisateur intuitive a été développée à l'aide de la bibliothèque **Streamlit**, permettant aux utilisateurs de charger des images et de saisir des informations sur les joueurs pour obtenir des prédictions.
 
-### Installation de Streamlit
+**Installation de Streamlit**
 
 Assurez-vous que Streamlit est installé dans votre environnement :
 
@@ -11,7 +11,7 @@ Assurez-vous que Streamlit est installé dans votre environnement :
 
    pip install streamlit
 
-### Lancer l'interface utilisateur
+**Lancer l'interface utilisateur**
 
 Pour démarrer l'application, exécutez la commande suivante dans votre terminal depuis le dossier contenant le fichier `streamlit_app.py` :
 
@@ -19,7 +19,7 @@ Pour démarrer l'application, exécutez la commande suivante dans votre terminal
 
    streamlit run streamlit_app.py
 
-### Fonctionnalités de l'interface
+**Fonctionnalités de l'interface**
 
 L'application Streamlit offre les fonctionnalités suivantes :
 
@@ -37,7 +37,7 @@ L'application Streamlit offre les fonctionnalités suivantes :
   - Probabilité de blessure musculaire.
   - Interprétation des résultats.
 
-### Exemple de résultat de l'interface
+**Exemple de résultat de l'interface**
 
 Une fois que les données sont saisies et soumises, l'utilisateur voit :
 
@@ -47,24 +47,25 @@ Une fois que les données sont saisies et soumises, l'utilisateur voit :
   - Rouge pour signaler un risque élevé de blessure.
   - Vert pour indiquer une absence de risque immédiat.
 
-### Capture d'écran de l'interface utilisateur
+**Capture d'écran de l'interface utilisateur**
 
 Voici une capture d'écran de l'interface :
 
-.. image:: images/streamlit_interface1.png
-   :width: 80%
-   :alt: Interface Streamlit pour la prédiction des blessures
-   :align: center
-
----
-.. image:: images/streamlit_interface2.png
+.. image:: images/streamlit_interface1.jpg
    :width: 80%
    :alt: Interface Streamlit pour la prédiction des blessures
    :align: center
 
 ---
 
-### Exemple de code complet
+.. image:: images/streamlit_interface2.jpg
+   :width: 80%
+   :alt: Interface Streamlit pour la prédiction des blessures
+   :align: center
+
+---
+
+**Exemple de code complet**
 
 Le code complet de l'interface utilisateur est disponible ci-dessous :
 

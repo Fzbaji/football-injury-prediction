@@ -1,5 +1,5 @@
-Collecte et Synthèse des Données
-================================
+Collecte des Données
+=====================
 
 Dans cette section, nous décrivons le processus de collecte et de création des données utilisées dans le projet. Étant donné les biais identifiés dans les jeux de données existants, un jeu de données synthétique a été généré pour répondre aux besoins spécifiques du projet.
 

@@ -29,5 +29,12 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-
+# Chemin vers les fichiers statiques
 html_static_path = ['_static']
+
+import os
+import sys
+sys.path.insert(0, os.path.abspath('.'))
+
+# Assurez-vous que votre dossier `images` est correctement référencé
+html_extra_path = ['images']

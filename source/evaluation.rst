@@ -3,7 +3,7 @@
 
 Après l'entraînement des modèles, l'étape d'évaluation permet de comparer leurs performances selon différentes métriques. Cette analyse nous a conduits à sélectionner le **modèle Random Forest**, qui a montré la précision (accuracy) la plus élevée.
 
-**Métriques Utilisées**
+Métriques Utilisées
 -----------------------
 
 Les principales métriques d'évaluation des modèles sont :
@@ -12,7 +12,7 @@ Les principales métriques d'évaluation des modèles sont :
 3. **Matrice de Confusion** : tableau de classification montrant les vrais positifs, vrais négatifs, faux positifs, et faux négatifs.
 4. **ROC-AUC** : mesure de la capacité du modèle à discriminer les classes.
 
-**Résultats des Modèles**
+Résultats des Modèles
 -------------------------
 
 Voici les performances des trois premiers modèles évalués individuellement :
@@ -68,7 +68,7 @@ Voici les performances des trois premiers modèles évalués individuellement 
         0       0.76      0.56      0.64
         1       0.31      0.53      0.39
 
-**Visualisation des Résultats**
+Visualisation des Résultats
 -------------------------------
 
 L'image ci-dessous présente une comparaison en barres des précisions (Accuracy) des trois modèles testés :
@@ -80,7 +80,7 @@ L'image ci-dessous présente une comparaison en barres des précisions (Accuracy
 
 *Explication* : Le modèle Random Forest a obtenu la précision la plus élevée, suivie de la Régression Logistique et du modèle SVM.
 
-**Conclusion : Modèle Choisi**
+Conclusion : Modèle Choisi
 -----------------------------
 
 Après évaluation, le **modèle Random Forest** a été sélectionné comme modèle principal pour les raisons suivantes :

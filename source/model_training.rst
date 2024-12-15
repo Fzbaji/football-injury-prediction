@@ -3,7 +3,7 @@ Entraînement des Modèles
 
 Une étape clé de l’analyse a été de tester plusieurs algorithmes d’apprentissage supervisé pour prédire les risques de blessures musculaires. Les modèles suivants ont été entraînés en utilisant les données équilibrées après les étapes de prétraitement.
 
-**Algorithmes Utilisés**
+Algorithmes Utilisés
 ------------------------
 
 Plusieurs modèles populaires et performants pour des tâches de classification ont été testés :
@@ -31,7 +31,7 @@ Plusieurs modèles populaires et performants pour des tâches de classification 
 6. **XGBoost** :
    - Variante optimisée de Gradient Boosting, particulièrement efficace en termes de temps et de performance.
 
-**Entraînement des Modèles**
+Entraînement des Modèles
 ----------------------------
 
 Les modèles ont été entraînés sur les données équilibrées après sur-échantillonnage de la classe minoritaire. La méthode de travail est la suivante :
@@ -73,7 +73,7 @@ Les modèles ont été entraînés sur les données équilibrées après sur-éc
           print(f"Training {name}...")
           model.fit(X_train_balanced, y_train_balanced)
 
-**Résumé des Modèles**
+Résumé des Modèles
 ----------------------
 
 Chaque modèle a été entraîné sur les données équilibrées, garantissant une représentation équitable des classes. Les paramètres par défaut ont été utilisés lors du premier essai. Par la suite, les modèles les plus performants ont été ajustés pour affiner leurs hyperparamètres (cette étape sera documentée dans la section suivante).

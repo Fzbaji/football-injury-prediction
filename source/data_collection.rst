@@ -15,12 +15,11 @@ La disponibilité de jeux de données fiables est cruciale pour l’entraînemen
 Pour pallier ces limitations, nous avons opté pour une approche de **génération de données synthétiques** basée sur des études et analyses fiables.
 
 Génération des Données Synthétiques
-===================================
+-----------------------------------
 
 Les données synthétiques ont été créées à partir de distributions statistiques et d'hypothèses dérivées d'études scientifiques et de données existantes. Ces données permettent d'étudier les facteurs prédictifs des blessures musculaires, notamment dans le contexte du football, où ce type de blessure est l’un des plus critiques. 
 
 **Variable Target**
--------------------
 
 La variable cible (*target*) est **binaire** et contient deux valeurs possibles :
 
@@ -30,7 +29,6 @@ La variable cible (*target*) est **binaire** et contient deux valeurs possibles 
 Cette variable cible a été définie sur la base des conclusions de plusieurs études et documents fiables, qui montrent que certains facteurs (tels que l’historique de blessures musculaires ou des charges d’entraînement excessives) augmentent considérablement le risque. En particulier, les blessures musculaires sont une des préoccupations majeures dans le domaine du football, en raison de leur fréquence et de leur impact sur les performances des joueurs.
 
 **Features Utilisées**
-----------------------
 
 Voici les **features** principales incluses dans le jeu de données et leur pertinence dans le contexte de l’étude sur les blessures musculaires :
 

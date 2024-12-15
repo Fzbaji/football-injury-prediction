@@ -16,8 +16,7 @@ Cette documentation couvre les aspects suivants du projet :
    3. Entraînement des modèles
    4. Évaluation des performances
 
-Sommaire
---------
+
 
 .. toctree::
    :maxdepth: 2

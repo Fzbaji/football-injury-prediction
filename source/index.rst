@@ -16,6 +16,7 @@ Cette documentation couvre les aspects suivants du projet :
    3. Prétraitement des données
    4. Entraînement des modèles
    5. Évaluation des performances
+   6. Interface utilisateur
 
 
 
@@ -28,5 +29,6 @@ Cette documentation couvre les aspects suivants du projet :
    preprocessing
    model_training
    evaluation
+   user_interface
 
 
